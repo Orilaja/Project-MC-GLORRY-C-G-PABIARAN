@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State ketika di klik -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#735F32" /> <!-- Ganti dengan warna yang diinginkan saat di klik -->
+            <corners android:radius="10dp" /> <!-- Sudut 10dp -->
+        </shape>
+    </item>
+
+    <!-- State default atau tidak di klik -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#E4AD52" /> <!-- Ganti dengan warna latar belakang default -->
+            <corners android:radius="10dp" /> <!-- Sudut 10dp -->
+        </shape>
+    </item>
+</selector>

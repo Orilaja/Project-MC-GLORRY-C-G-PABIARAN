@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "783209927869",
+    "firebase_url": "https://mcproject-4c537-default-rtdb.firebaseio.com",
+    "project_id": "mcproject-4c537",
+    "storage_bucket": "mcproject-4c537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783209927869:android:d9b0fc00c648621839d3d4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6TR4MDr092BD6UBdEzXzni9iV9Omvx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
